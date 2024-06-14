@@ -7,7 +7,7 @@
     },
     "servers": [
       {
-        "url": "https://des-web-api.vercel.app/",
+        "url": "https://des-web-4csbnaubs-ruan-carlos-passetos-projects.vercel.app/",
         "description": "Production server"
       }
     ],
